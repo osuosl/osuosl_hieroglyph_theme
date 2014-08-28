@@ -12,8 +12,7 @@ In conf.py::
     slide_theme_options = {'custom_css' : 'osuosl.css'}
     slide_footer = "<img src='_static/logo.png'>"
 
-For the html_theme and html_static_path variables, you must find the defaults in the file and change them, as they will not be overridden by your declaration of them!
-
-    ::
+For the html_theme and html_static_path variables, you must find the defaults in the file and change them, as they will not be overridden by your declaration of them! 
+::
     
     make slides
